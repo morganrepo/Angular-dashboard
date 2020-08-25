@@ -1,0 +1,7 @@
+release/
+node_modules/
+web/npm-debug.log
+dist/
+release/
+*.exe
+.vscode/**/*
